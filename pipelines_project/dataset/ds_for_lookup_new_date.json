@@ -1,0 +1,13 @@
+{
+	"name": "ds_for_lookup_new_date",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_for_lookup_newdate",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

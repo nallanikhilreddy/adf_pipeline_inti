@@ -1,0 +1,9 @@
+{
+	"name": "WMS-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1830709-66c2-4e78-ab59-deb89e2658d6",
+		"tenantId": "c709dfd0-0070-42d6-aa4f-ab4b912e04bc"
+	}
+}
